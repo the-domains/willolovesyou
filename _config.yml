@@ -1,0 +1,28 @@
+name: WilloLovesYou
+favicon: null
+layout_spectrum: 0.284523751353845
+typography_spectrum: 0.03598832944408059
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8017380689270794
+  lightness: 0.1530237360857427
+  saturation: 0.0834952995646745
+  rhythmicContrast: 0.20155586837790906
+purpose: []

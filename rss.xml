@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WilloLovesYou]]></title>
+        <description><![CDATA[WilloLovesYou]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 10 Jun 2016 09:50:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>As a creative entrepreneur who feels a deep connection to their calling in life and in business (let’s be honest, sometimes the two are so tightly intertwined, you can hardly tell them apart), do you struggle with simply knowing when to say “yes”, and when to say “no”?</p>]]></description>
+            <link>undefinedas-a-creative-entrepreneur-who-feels-a-deep-connection-to-th/index.html</link>
+            <guid isPermaLink="false">8ba79ef4-79e2-45d7-94e2-74860c4d7adc</guid>
+            <pubDate>Fri, 10 Jun 2016 09:50:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
